@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "500666135024",
+    "project_id": "matsya-bhavan",
+    "storage_bucket": "matsya-bhavan.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500666135024:android:fb400d63b42e87c0726d35",
+        "android_client_info": {
+          "package_name": "com.matsyabhavan.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlMxz1Op1Pv6OHlktXv4GVHu-O2B_mJJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
